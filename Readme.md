@@ -1,13 +1,17 @@
-# Student Performance Tracker
+# 🎓 Student Performance Tracker
 
-Aplikasi Python berbasis **OOP & Modular Package** untuk mengelola data mahasiswa dan nilai.
+Aplikasi berbasis **Python (OOP & Modular Package)** untuk mengelola data mahasiswa dan penilaian akademik secara interaktif melalui CLI (Command Line Interface).
 
-## Fitur
-- Tambah data mahasiswa
-- Input dan update penilaian
-- Hitung nilai akhir otomatis
-- Simpan laporan Markdown & HTML
-- Filter mahasiswa dengan nilai < 70
+## 🚀 Fitur Utama
+- 🧑‍🎓 Tambah data mahasiswa baru  
+- ✏️ Ubah / update nilai penilaian (Quiz, Tugas, UTS, UAS)  
+- ❌ Hapus data mahasiswa  
+- 📊 Lihat rekap nilai seluruh mahasiswa  
+- 📄 Simpan laporan ke dalam format **Markdown (`report.md`)**  
+- 🌐 Simpan laporan ke dalam format **HTML berwarna (`report.html`)**  
+- 🔎 Filter mahasiswa dengan nilai akhir di bawah 70  
+- 💾 Data otomatis tersimpan dalam folder `data/student_data.csv`
+
 
 ## Cara Menjalankan
 ```bash
