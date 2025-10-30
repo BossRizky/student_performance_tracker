@@ -12,7 +12,13 @@ Aplikasi berbasis **Python (OOP & Modular Package)** untuk mengelola data mahasi
 - 🔎 Filter mahasiswa dengan nilai akhir di bawah 70  
 - 💾 Data otomatis tersimpan dalam folder `data/student_data.csv`
 
+---
 
-## Cara Menjalankan
-```bash
-python app.py
+## ⚙️ Cara Menjalankan
+
+🧩 Langkah-langkah untuk menjalankan aplikasi di VS Code:
+
+1.python -m venv venv
+2.venv\Scripts\Activate.ps1    # Untuk PowerShell (Windows)
+3.pip install -r requirements.txt
+4.python app.py
